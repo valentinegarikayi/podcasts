@@ -6,16 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Jekyll Skeleton
-email: your-email@domain.com
+title: Radio Dzimbabwe
+email: fran.garikayi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-twitter_username: timklapdor
-github_username:  timklapdor
+  Analysing Zimbabwe's economy and society from a Marxist-Leninist perspective
+baseurl: ""
+url: ""
+twitter_username: veegarikayi
+github_username:  valentine.garikayi
 
 permalink: /:year/:title.html
 
