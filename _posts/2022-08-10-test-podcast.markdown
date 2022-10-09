@@ -4,9 +4,9 @@ title: "Test Podcast 1"
 date: 2022-10-08 15:00:00
 file: https://github.com/valentinegarikayi/podcasts/blob/master/audio/test.mp3
 summary: "My test podcast."
-description: " Just me gitting up."
-duration: "00:10"
-length: "56051164"
+description: "Just me gitting up."
+duration: "00:05"
+length: "51598"
 explicit: "no"
 keywords: "test garikayi"
 block: "no"
