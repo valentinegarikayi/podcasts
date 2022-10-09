@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Radio Dzimbabwe
+title: Zim Left Radio (ZLR)
 email: fran.garikayi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Analysing Zimbabwe's economy and society from a Marxist-Leninist perspective
@@ -15,7 +15,7 @@ url: "https://valentinegarikayi.github.io"
 twitter_username: veegarikayi
 github_username:  valentine.garikayi
 
-permalink: /:year/:title.html
+permalink: /:title.html
 
 
 # Build settings
