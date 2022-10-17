@@ -14,9 +14,8 @@ baseurl: "/podcasts"
 url: "https://valentinegarikayi.github.io"
 twitter_username: veegarikayi
 github_username:  valentine.garikayi
-
 permalink: /:title.html
-
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
