@@ -5,8 +5,8 @@ date: 2022-10-18 09:00:00
 file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep02_2022_Francis Garikayi_Introduction.mp3
 summary: ""
 description: "Introducing the podcast"
-duration: "00:04:23"
-length: "5833950"
+duration: "00:04:26"
+length: "5531249"
 explicit: "no"
 keywords: "Intro"
 block: "no"
@@ -16,8 +16,6 @@ thumbnail: /images/logo.jpg
 In this introductory episode, I describe the series and its aims
 
 Background music is Hapo Zamani by Miriam Makeba
-
-Engels' words are taken from [this article](https://www.marxists.org/archive/marx/works/1883/death/burial.htm)
 
 Episode artwork and podcast log is the conical tower inside the Great Enclosure at Great Zimbabwe from Wikimedia Commons
 
