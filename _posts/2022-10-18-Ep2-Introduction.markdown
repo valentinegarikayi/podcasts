@@ -17,7 +17,7 @@ In this introductory episode, I describe the series and its aims
 
 Background music is Hapo Zamani by Miriam Makeba
 
-Episode artwork and podcast log is the conical tower inside the Great Enclosure at Great Zimbabwe from Wikimedia Commons
+Episode artwork and podcast logo is the conical tower inside the Great Enclosure at Great Zimbabwe from Wikimedia Commons
 
 
 <!--more-->
@@ -28,4 +28,4 @@ Episode artwork and podcast log is the conical tower inside the Great Enclosure 
 * [Connect with me on LinkedIn](https://www.linkedin.com/feed/)
 * [Contact me](mailto:fran.garikayi@gmail.com)
 
-![great_zim]({{ site.url }}{{ site.baseurl }}/images/great_zim.jpg){:width="500"}
+![great_zim]({{ site.url }}{{ site.baseurl }}/images/great_zim.jpg){:width="300"}
