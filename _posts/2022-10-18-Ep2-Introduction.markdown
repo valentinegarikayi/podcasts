@@ -15,7 +15,7 @@ thumbnail: /images/logo.jpg
 
 In this introductory episode, I describe the series and its aims
 
-Background music is Hapo Zamani by Miriam Makeba
+Background music is "Hapo Zamani" by Miriam Makeba
 
 Episode artwork and podcast logo is the conical tower inside the Great Enclosure at Great Zimbabwe from Wikimedia Commons
 
