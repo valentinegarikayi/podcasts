@@ -19,7 +19,7 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-        <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/logo.jpg" />
+        <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/logo.png" />
 		<itunes:category text="Technology" />
 		<itunes:category text="Society &amp; Culture" />
         <itunes:category text="Education">

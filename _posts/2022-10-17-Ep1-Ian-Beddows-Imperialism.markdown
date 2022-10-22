@@ -15,13 +15,8 @@ thumbnail: /images/rhodes_colossus.png
 
 In this first episode, I interview uMkhonto we Sizwe military veteran [Ian Beddowes](https://www.facebook.com/ian.beddowes.77)
 
-We explore the concept of imperialism as well as its importance
-
-Intro background music is "Saramugomo" by Mbira Dzenharira
-
-Outro music is "Ballard of Accounting" by Ewan MacColl and Peggy Seeger
-
-Episode Artwork is The Rhodes Colossus from Wikimedia Commons
+We explore the concept of imperialism as well as its importance. Intro background music is "Saramugomo" by Mbira Dzenharira.
+Outro music is "Ballard of Accounting" by Ewan MacColl and Peggy Seeger. Episode Artwork is The Rhodes Colossus from Wikimedia Commons.
 
 <!--more-->
 

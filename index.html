@@ -13,7 +13,7 @@ layout: default
         </h2>
         <p class="meta">{{ first_post.date | date: "%b %-d, %Y" }}</p>
         <p>{{ first_post.excerpt }} </p>
-        <div><img class="small-scaled" src="{{ site.url }}{{ site.baseurl }}{{ first_post.thumbnail }}"></div>
+		<div><a href="{{ first_post.url | prepend: site.baseurl }}"><img class="small-scaled" src="{{ site.url }}{{ site.baseurl }}{{ first_post.thumbnail }}"</a></div>
         </div>
 
     {% for post in site.posts offset:1 %}
@@ -23,7 +23,16 @@ layout: default
         </h2>
         <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
         <p>{{ post.excerpt }} </p>
-        <div><img class="small-scaled" src="{{ site.url }}{{ site.baseurl }}{{ post.thumbnail }}"></div>
-
+        <div><a href="{{ post.url | prepend: site.baseurl }}"><img class="small-scaled" src="{{ site.url }}{{ site.baseurl }}{{ post.thumbnail }}"</a></div>
         </div>
     {% endfor %}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-02DTBF3N7T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-02DTBF3N7T');
+</script>
