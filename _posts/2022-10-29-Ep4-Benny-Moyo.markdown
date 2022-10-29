@@ -15,7 +15,7 @@ thumbnail: /images/HONDO.jpg
 
 Zimbabwe fought a bitter struggle to gain independence from settler colonialism. In this episode, I discuss the political economy of the liberation struggle with academic and farmer Cde Benny Moyo.
 
-Intro music is "Tozvireva Tingaputike Neshungu" by Mbira DzeNharira. Outro is "Love and scandals" by Solomon Skuza.
+Intro music is "Toputika Neshungu" by Mbira DzeNharira. Outro is "Love and scandals" by Solomon Skuza.
 
 Article image is a bush training base during the liberation struggle. Image credit The Herald.
 
