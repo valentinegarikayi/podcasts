@@ -17,7 +17,7 @@ Zimbabwe fought a bitter struggle to gain independence from settler colonialism.
 
 Intro music is "Toputika Neshungu" by Mbira DzeNharira. Outro is "Love and scandals" by Solomon Skuza.
 
-Article image is a bush training base during the liberation struggle. Image credit The Herald.
+Article image is 'a bush training base' during the liberation struggle. Image credit The Herald.
 
 <!--more-->
 
