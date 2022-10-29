@@ -15,13 +15,14 @@ thumbnail: /images/Brown-and-Zimplats.jpg
 
 In April 2008, Zimbabwe promulgated the Indigenisation and Economic Empowerment Act No. 14 of 2007 (Chapter 14:33). The background to the law was the need to restructure and transform Zimbabwe's economy.
 
-In the early 1990s, indigenisation policy produced big businessmen like Strive Masiiwa and Ben Mucheche. And yet, when Hon Kasukuwere under the late Robert Mugabe's government forged ahead with implementing the programme he was excoriated for his efforts.In this episode, Cde Kasukuwere explains the origins and motivations of Zimbabwe's indigenisation and economic empowerment programme.
+In this episode, Cde Kasukuwere explains the origins and motivations of Zimbabwe's indigenisation and economic empowerment programme.
 
 Intro music is "Kumatendera" by Mbira DzeNharira. Outro is "Ndega ndega" by Mbuya Madhuve.
 
 Article image is Former Empowerment Minister Savior Kasukuwere and the late Dave Brown of Implats. Image credit Nehanda Radio.
 
 <!--more-->
+
 ## Links
 * [Honourable Saviour Kasukuwere's Speech on the Implications of the Korean Economic Development Experiences for Zimbabwe](https://saviourkasukuwere.blogspot.com/2011/11/honourable-saviour-kasukuweres-speech.html?m=1)
 * [An anlysis of indigenisation and economic empowerment in Zimbabwe](exams.apps.accaglobal.com/acca-pr-web/certificates/validate)
