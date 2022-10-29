@@ -29,3 +29,13 @@ Article image is Former Empowerment Minister Savior Kasukuwere and the late Dave
 * [Empowerment may be sabotaged but it will triumph](https://www.newzimbabwe.com/empowerment-may-be-sabotaged-but-it-will-triumph-vows-kasukuwere-in-tribute-to-mining-veteran-david-brown/)
 
 ![Kasukuwere_Brown]({{ site.url }}{{ site.baseurl }}/images/Brown-and-Zimplats.jpg){:width="300"}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-02DTBF3N7T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-02DTBF3N7T');
+</script>

@@ -25,3 +25,13 @@ Article image is 'a bush training base' during the liberation struggle. Image cr
 * [On the Loot Committe ](https://www.tandfonline.com/doi/pdf/10.1080/03057070.2022.2058771)
 
 ![HONDO]({{ site.url }}{{ site.baseurl }}/images/HONDO.jpg){:width="300"}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-02DTBF3N7T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-02DTBF3N7T');
+</script>

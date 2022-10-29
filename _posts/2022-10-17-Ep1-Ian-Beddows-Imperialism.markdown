@@ -25,3 +25,13 @@ Outro music is "Ballard of Accounting" by Ewan MacColl and Peggy Seeger. Episode
 * [Remembering the 1972 Building Workers’ Strike](https://tribunemag.co.uk/2022/07/1972-building-workers-strike-50-years-shrewsbury-24-pickets)
 
 ![rhodes]({{ site.url }}{{ site.baseurl }}/images/rhodes_colossus.png){:width="300"}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-02DTBF3N7T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-02DTBF3N7T');
+</script>

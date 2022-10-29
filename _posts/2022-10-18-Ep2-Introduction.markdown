@@ -27,3 +27,13 @@ Background music is "Hapo Zamani" by Miriam Makeba. Episode artwork and podcast 
 * [Contact me](mailto:fran.garikayi@gmail.com)
 
 ![great_zim]({{ site.url }}{{ site.baseurl }}/images/great_zim.jpg){:width="300"}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-02DTBF3N7T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-02DTBF3N7T');
+</script>
