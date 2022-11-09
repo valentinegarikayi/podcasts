@@ -13,11 +13,11 @@ block: "no"
 thumbnail: /images/Zipra-guerillas.jpg
 ---
 
-In this episode, I interview former freedom fighter Fabian Nkomo on his liberation struggle experiences, what motivated him, as well as the Gukurahundi disturbances.
+In this episode, I interview former freedom fighter Comrade Fabian Nkomo on his liberation struggle experiences, what motivated him, as well as the Gukurahundi disturbances.
 
 Intro music is "Tatadzeiko" by Mbira DzeNharira.
 
-Article image is a group of Zipra guerillas. Image credit Chronicle.
+Article image is a band of Zipra guerillas. Image credit Chronicle.
 
 <!--more-->
 
