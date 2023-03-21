@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An interview with Zimbabwean female trade unionist Dorcas Norupiri"
-date: 2023-03-20 12:00:00
+date: 2023-03-21 22:00:00
 file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_06_2023_Dorcas Norupiri.mp3
 summary: ""
 description: "A discussion with a mining sector female trade unionist"
@@ -19,7 +19,7 @@ Dorcas narrates some of the challenges being faced by women in the mining sector
 
 Outro music is "The Internationale" by Billy Bragg.
 
-Article image is Comrade Dorcas Norupiri.
+Episode image is Comrade Dorcas Norupiri.
 <!--more-->
 
 ## Links
