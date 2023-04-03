@@ -24,7 +24,7 @@ Episode image is the Stourbridge Health and Social Care Centre from Wikimedia Co
 
 ## Important links
 
-* [UK's Health and Care visa](https://www.youtube.com/watch?v=evWEuVR1XIs)
+* [UK's Health and Care visa](https://www.gov.uk/health-care-worker-visa)
 
 ![Taku]({{ site.url }}{{ site.baseurl }}/images/Friendship-Bench-Zimbabwe.jpg){:width="300"}
 
