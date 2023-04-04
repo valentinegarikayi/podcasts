@@ -2,7 +2,7 @@
 layout: post
 title: "Imperialism in the Zimbabwean context"
 date: 2022-10-18 10:00:00
-file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep01_2022_Ian Beddowes_Imperialism.mp3
+file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep01_2022_Beddowes_Imperialism.mp3
 summary: ""
 description: "Unpacking how imperialism has affected Zimbabwe historically and in contemporary times"
 duration: "01:01:43"
