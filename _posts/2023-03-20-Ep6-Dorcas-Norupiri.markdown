@@ -2,7 +2,7 @@
 layout: post
 title: "An interview with Zimbabwean female trade unionist Dorcas Norupiri"
 date: 2023-03-21 22:00:00
-file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_06_2023_Dorcas Norupiri.mp3
+file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_06_2023_Norupiri.mp3
 summary: ""
 description: "A discussion with a mining sector female trade unionist"
 duration: "00:59:38"
