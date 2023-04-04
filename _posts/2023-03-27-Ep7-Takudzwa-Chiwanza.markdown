@@ -2,7 +2,7 @@
 layout: post
 title: "Pushing back against Al Jazeera's Gold Mafia documentary"
 date: 2023-03-27 22:00:00
-file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_07_2023_Takudzwa Chiwanza.mp3
+file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_07_2023_Chiwanza.mp3
 summary: " An interview with Cde Takudzwa Chiwanza"
 description: "A critical analysis of Al Jazeera's Gold Mafia documentary"
 duration: "00:38:18"
