@@ -2,7 +2,7 @@
 layout: post
 title: "Series introduction"
 date: 2022-10-18 09:00:00
-file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep02_2022_Francis Garikayi_Introduction.mp3
+file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep02_2022_Introduction.mp3
 summary: ""
 description: "Introducing the podcast"
 duration: "00:04:26"
