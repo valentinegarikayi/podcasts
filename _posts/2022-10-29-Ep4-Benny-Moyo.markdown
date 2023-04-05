@@ -2,7 +2,7 @@
 layout: post
 title: "The political economy of Zimbabwe's liberation struggle"
 date: 2022-10-29 01:00:00
-file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_04_2022_Benny Moyo.mp3
+file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_04_2022_BMoyo.mp3
 summary: ""
 description: "A discussion with academic and farmer Cde Benny Moyo"
 duration: "01:00:41"

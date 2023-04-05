@@ -2,7 +2,7 @@
 layout: post
 title: "An interview with a former ZIPRA freedom fighter"
 date: 2022-11-09 12:00:00
-file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_05_2022_Fabian Nkomo.mp3
+file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_05_2022_FabianNkomo.mp3
 summary: ""
 description: "A discussion with former freedom fighter Cde Fabian Nkomo"
 duration: "01:00:41"
