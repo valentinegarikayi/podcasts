@@ -22,6 +22,7 @@ Article image is a band of Zipra guerillas. Image credit Chronicle.
 <!--more-->
 
 ## Links
+* [Support me by buying me a coffee](https://www.buymeacoffee.com/frangarika7)
 * [On some of ZIPRA's cunning tactics ](https://www.chronicle.co.zw/outnumbered-zipra-guerillas-wore-cowbells-to-lull-enemy-forces/)
 
 ![HONDO]({{ site.url }}{{ site.baseurl }}/images/Zipra-guerillas.jpg){:width="300"}

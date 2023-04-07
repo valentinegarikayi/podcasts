@@ -23,7 +23,7 @@ Episode image is from Wikimedia Commons
 <!--more-->
 
 ## Important links
-
+* [Support me by buying me a coffee](https://www.buymeacoffee.com/frangarika7)
 * [Gold Mafia documentary](https://www.youtube.com/watch?v=evWEuVR1XIs)
 * [Zimsphere website](http://www.zimsphere.co.zw/)
 * [The African Exponent](https://www.africanexponent.com/)

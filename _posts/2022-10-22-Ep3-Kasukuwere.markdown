@@ -24,6 +24,7 @@ Article image is Former Empowerment Minister Savior Kasukuwere and the late Dave
 <!--more-->
 
 ## Links
+* [Support me by buying me a coffee](https://www.buymeacoffee.com/frangarika7)
 * [Honourable Saviour Kasukuwere's Speech on the Implications of the Korean Economic Development Experiences for Zimbabwe](https://saviourkasukuwere.blogspot.com/2011/11/honourable-saviour-kasukuweres-speech.html?m=1)
 * [An anlysis of indigenisation and economic empowerment in Zimbabwe](exams.apps.accaglobal.com/acca-pr-web/certificates/validate)
 * [Empowerment may be sabotaged but it will triumph](https://www.newzimbabwe.com/empowerment-may-be-sabotaged-but-it-will-triumph-vows-kasukuwere-in-tribute-to-mining-veteran-david-brown/)

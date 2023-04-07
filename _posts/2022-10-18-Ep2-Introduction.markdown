@@ -25,6 +25,7 @@ Background music is "Hapo Zamani" by Miriam Makeba. Episode artwork and podcast 
 * [Follow me on twitter](https://tribunemag.co.uk/2022/07/1972-building-workers-strike-50-years-shrewsbury-24-pickets)
 * [Connect with me on LinkedIn](https://www.linkedin.com/feed/)
 * [Contact me](mailto:fran.garikayi@gmail.com)
+* [Support me by buying me a coffee](https://www.buymeacoffee.com/frangarika7)
 
 ![great_zim]({{ site.url }}{{ site.baseurl }}/images/great_zim.jpg){:width="300"}
 
