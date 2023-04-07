@@ -23,6 +23,7 @@ Episode image is Comrade Dorcas Norupiri.
 <!--more-->
 
 ## Links
+* [Support me by buying me a coffee](https://www.buymeacoffee.com/frangarika7)
 
 ![Dorcas]({{ site.url }}{{ site.baseurl }}/images/Dorcas.jpg){:width="300"}
 
