@@ -23,7 +23,7 @@ Episode image is a picture from Dimbulukeni's twitter account.
 <!--more-->
 
 ## Important links
-* [Support me by buying me a coffee](https://www.buymeacoffee.com/frangarika7)
+* [Buy us a coffee](https://www.buymeacoffee.com/frangarika7)
 * [ The Namibian newspaper's report on the appointment of Justice Makarau](https://www.namibian.com.na/ex-namibian-elections-chief-worried-about-zimbabwean-judges-political-ties/)
 
 ![Dee]({{ site.url }}{{ site.baseurl }}/images/Nam1.jpeg){:width="300"}
