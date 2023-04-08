@@ -5,8 +5,8 @@ date: 2023-04-08 00:00:00
 file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_09_2023_Dimbulukeni.mp3
 summary: " An interview with Dimbulukeni Shipandeni Hafenih"
 description: "How young Namibians are claiming back their country"
-duration: "01:08:22"
-length: "45921633"
+duration: "01:08:48"
+length: "43920539"
 explicit: "no"
 keywords: "Namibia Africa Unemployment"
 block: "no"
