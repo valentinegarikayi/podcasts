@@ -17,7 +17,7 @@ In this episode, I interview Dimbulukeni Shipandeni Hafenih, a Namibian social j
 
 Outro music is "Give Me Back Namibia" by Jackson Kaujeua.
 
-Episode image is a picture from Dimbulukeni's twitter account.
+Episode image is a picture from Dimbulukeni's Twitter account.
 
 
 <!--more-->
