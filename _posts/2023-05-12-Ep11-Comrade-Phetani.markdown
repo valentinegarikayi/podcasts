@@ -5,7 +5,7 @@ date: 2023-05-12 20:00:00
 file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep11_2023_Phetani.mp3
 summary: " An interview with Phetani Madzivhandiala"
 description: "Southern Africa now, a Marxist perspective"
-duration: "00:35:36"
+duration: "01:09:43"
 length: "26238727"
 explicit: "no"
 keywords: "Southern Africa Marxism"
