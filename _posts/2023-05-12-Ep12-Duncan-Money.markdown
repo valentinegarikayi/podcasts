@@ -13,7 +13,7 @@ block: "no"
 thumbnail: /images/Stamp_mill_Zimbabwe.jpg
 ---
 
-In this episode I speak with historian Duncan Money on the controversial Al Jazeera's "Gold Mafia" documentary.
+In this episode I talk with historian Duncan Money on the controversial Al Jazeera's "Gold Mafia" documentary.
 
 Outro music is Working Man by the Dubliners.
 
