@@ -17,7 +17,7 @@ In this episode I speak with historian Duncan Money on the controversial Al Jaze
 
 Outro music is Working Man by the Dubliners.
 
-Episode image is a photograph is a ball mill & stamp mill, gold ore processing centre, Shamva, Zimbabwe. Photo credit [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stamp_mill_Zimbabwe.jpg){:target="_blank"}.
+Episode image is a ball mill & stamp mill, gold ore processing centre, Shamva, Zimbabwe. Photo credit [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stamp_mill_Zimbabwe.jpg){:target="_blank"}.
 
 
 <!--more-->
