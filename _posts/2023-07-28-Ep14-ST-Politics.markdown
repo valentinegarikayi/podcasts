@@ -29,11 +29,8 @@ Episode first published here: [Sunday Times Politics Weekly ](https://iono.fm/e/
 <!--more-->
 
 ## Important links
-* [Follow Booker on Twitter](https://twitter.com/BookerBiro)
-* [Communist Party of Kenya website](https://communistpartyofkenya.org/)
-* [CPK YouTube Channel](https://www.youtube.com/@communistpartyofkenya)
 
-![Communism]({{ site.url }}{{ site.baseurl }}/images/logo_3785_20191028_153911_600.jpg){:width="300"}
+![ST Politics]({{ site.url }}{{ site.baseurl }}/images/logo_3785_20191028_153911_600.jpg){:width="300"}
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-02DTBF3N7T"></script>
