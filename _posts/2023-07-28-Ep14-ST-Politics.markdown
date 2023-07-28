@@ -4,11 +4,11 @@ title: "Why Zimbabwe needs a negotiated settlement, not another rigged election"
 date: 2023-07-28 12:00:00
 file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_13_2023_Mabhena.mp3
 summary: "Communism in Africa"
-description: "A conversation with Cde Booker Ngesa Omole"
-duration: "01:17:55"
+description: "Ibbo Mandaza and Ngqabutho Nicholas Mabhena discuss Zimbabwe's upcoming elections"
+duration: "00:35:52"
 length: "35008127"
 explicit: "no"
-keywords: "Communism Africa Kenya Zimbabwe"
+keywords: "South Africa Elections Zimbabwe"
 block: "no"
 thumbnail: /images/logo_3785_20191028_153911_600.jpg
 ---
