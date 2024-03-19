@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Socialism and Economic Management in Africa"
+title: "Socialism and economic management in Africa"
 date: 2023-09-06 00:00:00
 file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_15_2023_Beddowes.mp3
 summary: "Economic management in Africa with cde Ian Beddowes"
