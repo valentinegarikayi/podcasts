@@ -13,7 +13,13 @@ block: "no"
 thumbnail: /images/Zimbabwe-land-reform-010.png
 ---
 
-I this episode I discuss the various land reform programmes in Africa but mostly the Zimbabwe land reform programme.
+Land reform in Africa remains one of the most explosive debates of our time—who owns the land, who works it, and who truly benefits?
+
+In this episode, I sit down with Comrade Ian Beddowes of the Zimbabwe Communist Party to dissect the continent’s turbulent history of land redistribution.
+
+We’ll compare different African models, but focus sharply on Zimbabwe’s radical reform program—a policy that toppled white settler dominance, crashed the economy, and still sparks fury and admiration today.
+
+Was it economic suicide or long-overdue justice? And what lessons does it hold for South Africa, Kenya, and beyond?
 
 Outro music is "Buka Tiende" by Thomas Mapfumo.
 
