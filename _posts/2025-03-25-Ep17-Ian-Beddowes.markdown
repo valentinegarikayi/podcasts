@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Land refom and economic development in Africa"
+title: "Land reform and economic development in Africa"
 date: 2025-03-25 00:19:00
 file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_17_2025_BeddowesMarch2025.mp3
 summary: "A historical and contemporary analysis with Ian Beddowes"
