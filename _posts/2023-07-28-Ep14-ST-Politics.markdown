@@ -27,8 +27,6 @@ The host is Sunday Times deputy editor Mike Siluma and the producer is Bulelani 
 
 Episode first published here: [Sunday Times Politics Weekly ](https://iono.fm/e/1336679){:target="_blank"}.
 
-ZLR was permitted to republish it.
-
 
 <!--more-->
 
