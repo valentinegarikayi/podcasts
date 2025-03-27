@@ -10,7 +10,7 @@ length: "57237003"
 explicit: "no"
 keywords: "Africa Land Development"
 block: "no"
-thumbnail: /images/Zimbabwe-land-reform-010.png
+thumbnail: /images/Zim-land-reform-010.png
 ---
 
 Land reform in Africa remains one of the most explosive debates of our time—who owns the land, who works it, and who truly benefits?
