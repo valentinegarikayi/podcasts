@@ -29,7 +29,7 @@ Outro music is "Buka Tiende" by Thomas Mapfumo.
 ## Important links
 * ["Twenty-five years after Zimbabwe's land reform: understanding change"](https://zimbabweland.wordpress.com/2025/01/20/twenty-five-years-after-zimbabwes-land-reform-understanding-change/)
 
-![Elections]({{ site.url }}{{ site.baseurl }}/images/Zimbabwe-land-reform-010.png){:width="300"}
+![Elections]({{ site.url }}{{ site.baseurl }}/images/Zim-land-reform-010.png){:width="300"}
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-02DTBF3N7T"></script>
