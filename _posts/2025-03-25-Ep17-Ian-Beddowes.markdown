@@ -10,6 +10,7 @@ length: "57237003"
 explicit: "no"
 keywords: "Africa Land Development"
 block: "no"
+transcript: /transcripts/Ep_17_2025_BeddowesMarch2025.txt
 thumbnail: /images/Zim-land-reform-010.png
 ---
 
@@ -27,6 +28,7 @@ Outro music is "Buka Tiende" by Thomas Mapfumo.
 <!--more-->
 
 ## Important links
+
 * ["Twenty-five years after Zimbabwe's land reform: understanding change"](https://zimbabweland.wordpress.com/2025/01/20/twenty-five-years-after-zimbabwes-land-reform-understanding-change/)
 
 ![Elections]({{ site.url }}{{ site.baseurl }}/images/Zim-land-reform-010.png){:width="300"}

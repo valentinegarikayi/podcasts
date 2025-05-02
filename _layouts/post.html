@@ -18,13 +18,14 @@ layout: default
         <source src="{{ page.file }}" type="audio/mp3">
     </audio>
     </div>
-    <div class="four columns center-content">
+    <div class="four columns center-content">   
     <a href="{{ page.file }}" class="button u-full-height" download="{{ page.title }}">Download Now</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/{{ page.transcript}}" class="button u-full-height">Transcript</a>    
     </div>
    </div>
 
   <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    {{ content }}  
   </div>
-
+  
 </article>
