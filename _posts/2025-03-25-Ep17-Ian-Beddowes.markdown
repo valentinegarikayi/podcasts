@@ -10,7 +10,7 @@ length: "57237003"
 explicit: "no"
 keywords: "Africa Land Development"
 block: "no"
-transcript: /transcripts/Ep_17_2025_BeddowesMarch2025.txt
+transcript: /transcripts/ep-17-beddowes/
 thumbnail: /images/Zim-land-reform-010.png
 ---
 

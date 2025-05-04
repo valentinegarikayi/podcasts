@@ -1,0 +1,14 @@
+---
+layout: default
+title: All Transcripts
+---
+
+<h1>Transcript Archive</h1>
+<ul>
+  {% for transcript in site.transcripts %}
+    <li>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ transcript.url }}">{{ transcript.title }}</a>
+	  <span>({{ transcript.date | date: "%B %d, %Y" }})</span>
+    </li>
+  {% endfor %}
+</ul>

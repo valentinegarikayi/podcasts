@@ -10,6 +10,7 @@ length: "35008127"
 explicit: "no"
 keywords: "South Africa Elections Zimbabwe"
 block: "no"
+transcript: /transcripts/ep-14-2023-mabhena
 thumbnail: /images/logo_3785_20191028_153911_600.jpg
 ---
 

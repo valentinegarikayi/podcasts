@@ -10,6 +10,7 @@ length: "35008127"
 explicit: "no"
 keywords: "Communism Africa Kenya Zimbabwe"
 block: "no"
+transcript: /transcripts/ep13-2023-booker
 thumbnail: /images/Hammer_and_sickle.png
 ---
 

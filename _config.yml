@@ -23,3 +23,8 @@ timezone: United Kingdom
 
 # Build settings
 markdown: kramdown
+
+collections:
+  transcripts:
+    output: true
+    permalink: /transcripts/:name/

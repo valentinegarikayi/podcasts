@@ -10,6 +10,7 @@ length: "28352123"
 explicit: "no"
 keywords: "Africa Economy Socialism"
 block: "no"
+transcript: /transcripts/ep-15-2023-beddowes
 thumbnail: /images/cde_Ian_Beddowes.jpeg
 ---
 

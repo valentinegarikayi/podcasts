@@ -10,6 +10,7 @@ length: "56649198"
 explicit: "no"
 keywords: "Africa Elections Democracy"
 block: "no"
+transcript: /transcripts/ep-16-2024-chiwanza
 thumbnail: /images/zim-voting-2023.jpg
 ---
 
