@@ -5,7 +5,7 @@ date: 2025-10-04 00:22:45
 file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_18_2025_BeddowesOctober2025.mp3
 summary: "On the importance of economic development and a Vanguard Party"
 description: "A conversation with Comrade Ian Beddowes"
-duration: "01:12:48"
+duration: "01:17:36"
 length: "57237003"
 explicit: "no"
 keywords: "Economy Communism Stirling"
