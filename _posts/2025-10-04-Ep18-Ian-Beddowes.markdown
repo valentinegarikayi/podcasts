@@ -27,6 +27,7 @@ In the final segment, we reflect on the enduring legacy of David Stirling, the f
 * [David Stirling wikipeda bio](https://en.wikipedia.org/wiki/David_Stirling)
 * [Capricorn Africa Society](https://en.wikipedia.org/wiki/Capricorn_Africa_Society)
 * [Leopold Takawira](https://en.wikipedia.org/wiki/Leopold_Takawira)
+* [Programme of the Zimbabwe Communist Party](https://zimcommunists.org/programme)
 
 ![Elections]({{ site.url }}{{ site.baseurl }}/images/Zim_economy_map.png){:width="300"}
 
