@@ -1,23 +1,10 @@
 ---
-layout: single
+layout: transcript
 classes: wide
-title: "Africa must focus on developing its economy: Ian Beddowes"
-date: 2025-10-07
-tags: beddowes zimleftradio
-feature: true
-header:
-    teaser: /assets/images/africa-economy.png
-sidebar:
-  - title: "About"
-    image: /assets/images/Ian_Beddowes.jpg   
-    text: "**Ian Beddowes** is a former ZAPU activist living in South Africa."    
+title: "Africa must focus on developing its economy"
+date: 2025-10-04
+description: A conversation with Cde Ian Beddowes
 ---
-
-## Transcript of the episode with **Ian Beddowes** on Zim Left Radio, recorded October 2025.
-
-Listen to audio [here](https://valentinegarikayi.github.io/podcasts/Ep18-Ian-Beddowes.html)
-
-
 **Valentine** 0:00:00
 Hello everyone and welcome to yet another exciting episode on Zim Left Radio. Today we are joined by our regular guest to the show, Comrade Ian Beddowes. How are you doing? 
 

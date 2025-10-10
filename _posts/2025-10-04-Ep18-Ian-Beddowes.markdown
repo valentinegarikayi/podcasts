@@ -10,7 +10,7 @@ length: "59868096"
 explicit: "no"
 keywords: "Economy Communism Stirling"
 block: "no"
-transcript: /transcripts//
+transcript: /transcripts/ep-18-beddowes18/
 thumbnail: /images/africa-economy.png
 ---
 
