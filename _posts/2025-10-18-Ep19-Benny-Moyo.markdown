@@ -3,7 +3,7 @@ layout: post
 title: "On class dynamics in Zimbabwe"
 date: 2025-10-18 20:45:00
 file: https://github.com/valentinegarikayi/podcasts/raw/master/audio/Ep_19_2025_BMoyo_October.mp3
-summary: "On the importance of economic development and a Vanguard Party"
+summary: "On the importance of understanding class relations in Zimbabwe"
 description: "A conversation with Comrade Benny Moyo"
 duration: "01:17:36"
 length: "59868096"
