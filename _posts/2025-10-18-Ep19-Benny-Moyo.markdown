@@ -18,7 +18,7 @@ Since independence in 1980, Zimbabwe’s ruling ZANU–PF has shaped a society m
 
 In this episode, I sit down with Comrade Benny Moyo to explore class in Zimbabwe from the rise of the elite to the search for a revolutionary class.
 
-Outro Music: Famba So by Simon Chimbetu
+Outro Music: "Famba So" by Simon Chimbetu
 <!--more-->
 
 ## Important links
